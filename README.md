@@ -1,3 +1,3 @@
 # HelloGit
 
-gdgd
+헬로 귓
